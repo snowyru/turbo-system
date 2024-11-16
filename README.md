@@ -1,5 +1,3 @@
-This is task for [[Mom]]
-
 # Initial project scope / objective
 Potential cars : 
 - Tcross 2022
