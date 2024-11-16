@@ -29,6 +29,7 @@ Note:
 - Toyota RAV4
 - Honda CR-V
 - Mazda CX-5
+- Toyota Corolla cross
 - VW T-cross
 - VW Tiguan
 - Hyundai Tucson
