@@ -56,7 +56,7 @@ Note:
 | Feature                     | Volkswagen T-Cross 2022                                   | Toyota Corolla Cross 2022                         |
 |-----------------------------|-----------------------------------------------------------|--------------------------------------------------|
 | **Variants**                | 1.0 TSI Comfortline<br>1.0 TSI Comfortline DSG<br>1.0 TSI Highline DSG<br>1.5 TSI R-Line DSG  | 1.8 Xi<br>1.8 XS<br>1.8 XR<br>1.8 GR-Sport        |
-| **Safety Rating (ANCAP)**   | 5-star                                                   | 5-star                                           |
+| **Safety Rating (ANCAP)**   | 5-star - [crash test video](https://youtu.be/l1AhclyM9S8?si=be93bhQXaIAywupK) | 5-star - [crash test video](https://youtu.be/8WkNYkg-nzM?si=EOkTUOvc4HXnz5Q5) |
 | **Boot Capacity**           | 385L                                                     | 440L                                             |
 | **Fuel Economy**            | 5.4 - 5.5 L/100 km (combined cycle)                       | 6.8 L/100 km (combined cycle)                    |
 | **Transmission**            | 5-speed manual<br>7-speed DSG (Direct Shift Gearbox)     | CVT (Continuously Variable Transmission)         |
@@ -72,7 +72,7 @@ Note:
 | Feature                     | Toyota RAV4 2022                                         | Volkswagen T-Cross 2022                                    |
 |-----------------------------|----------------------------------------------------------|------------------------------------------------------------|
 | **Variants**                | RAV4 2.0 GX-R AWD<br>RAV4 2.0 VX<br>RAV4 2.5 GX-R Hybrid E-Four<br>RAV4 2.5 VX Hybrid E-Four | 1.0 TSI Comfortline<br>1.0 TSI Comfortline DSG<br>1.0 TSI Highline DSG<br>1.5 TSI R-Line DSG |
-| **Safety Rating (ANCAP)**   | 5-star                                                   | 5-star                                                     |
+| **Safety Rating (ANCAP)**   | 5-star - [crash test video](https://youtu.be/3XdLjzLCcNE?si=vSGs8g74ngNpno3N) | 5-star - [crash test video](https://youtu.be/l1AhclyM9S8?si=be93bhQXaIAywupK) |
 | **Boot Capacity**           | 580L                                                     | 385L                                                       |
 | **Fuel Economy**            | 4.8 - 6.7 L/100 km (combined cycle)                       | 5.4 - 5.5 L/100 km (combined cycle)                        |
 | **Transmission**            | CVT (Continuously Variable Transmission)                 | 5-speed manual<br>7-speed DSG (Direct Shift Gearbox)       |
@@ -96,7 +96,7 @@ Note:
 - 1.0 TSI Highline DSG
 - 1.5 TSI R-Line DSG
 
-**Safety Rating (ANCAP)**: 5-star
+**Safety Rating (ANCAP)**: 5-star - [crash test video](https://youtu.be/l1AhclyM9S8?si=be93bhQXaIAywupK)
 
 **Boot capacity**: 385L
 
@@ -160,7 +160,7 @@ Note:
 - Corolla Cross 1.8 XR
 - Corolla Cross 1.8 GR-Sport
 
-**Safety Rating (ANCAP)**: 5-star
+**Safety Rating (ANCAP)**: 5-star - [crash test video](https://youtu.be/8WkNYkg-nzM?si=EOkTUOvc4HXnz5Q5)
 
 **Boot capacity**: 440L
 
@@ -277,7 +277,7 @@ Note:
 - RAV4 2.5 GX-R Hybrid E-Four
 - RAV4 2.5 VX Hybrid E-Four
 
-**Safety Rating (ANCAP)**: 5-star
+**Safety Rating (ANCAP)**: 5-star - [crash test video](https://youtu.be/3XdLjzLCcNE?si=vSGs8g74ngNpno3N)
 
 **Boot capacity**: 580L
 
