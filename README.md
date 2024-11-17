@@ -64,6 +64,8 @@ Note:
 
 **Safety Rating (ANCAP)**: 5-star
 
+**Boot capacity**: 385L
+
 **Engine Options**:
 
 1. **1.0 TSI Comfortline**:
@@ -125,6 +127,8 @@ Note:
 - Corolla Cross 1.8 GR-Sport
 
 **Safety Rating (ANCAP)**: 5-star
+
+**Boot capacity**: 440L
 
 **Engine Options**:
 
@@ -188,6 +192,8 @@ Note:
 
 **Safety Rating (ANCAP)**: 5-star
 
+**Boot capacity**: 520L
+
 **Engine Options**:
 
 1. **2.0T FWD**:
@@ -238,6 +244,8 @@ Note:
 - RAV4 2.5 VX Hybrid E-Four
 
 **Safety Rating (ANCAP)**: 5-star
+
+**Boot capacity**: 580L
 
 **Engine Options**:
 
@@ -301,6 +309,8 @@ Note:
 
 **Safety Rating (ANCAP)**: 5-star
 
+**Boot capacity**: 522L
+
 **Engine Options**:
 
 1. **1.5L Turbocharged (LX, EX, EX-L, Touring)**:
@@ -337,6 +347,8 @@ Note:
 - CX-5 2.2L Diesel
 
 **Safety Rating (ANCAP)**: 5-star
+
+**Boot capacity**: 522L
 
 **Engine Options**:
 
