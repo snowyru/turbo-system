@@ -50,7 +50,26 @@ Note:
 	- Power
 	- Torque
 	- Additional features
- - 
+
+## Polo Vivo 2010 1.4L
+
+| Specification      | Details                              |
+|--------------------|--------------------------------------|
+| Vehicle name       | Volkswagen Polo Vivo 1.4L hatch      |
+| Variants           | Hatchback                            |
+| Safety rating (global) | 3-Star - [crash test video](https://youtu.be/QATSSgFvPmk?si=9U0S_thMQuugM0SM) |
+| Engine options     | 1.4L petrol engine                   |
+| Engine name and capacity | CLPB, 1398 cm³              |
+| Engine aspiration  | Naturally aspirated                  |
+| Fuel economy       | 6.2 l/100 km (combined)              |
+| Transmission       | 5-speed manual                       |
+| 0 - 60 km/h        | 12.3 seconds                         |
+| Top speed          | 171 km/h (106.25 mph)                |
+| Drivetrain         | Front-wheel drive                    |
+| Power              | 75 hp (55.93 kW) at 5000 rpm         |
+| Torque             | 132 Nm at 3600 rpm                   |
+| Additional features | ABS, hydraulic power steering, front disc brakes, rear drum brakes, 5 seats, 5 doors, 270-635 liters trunk space |
+
 ##  Comparison Volkswagen T-Cross 2022 and Toyota Corolla Cross 2022
 
 | Feature                     | Volkswagen T-Cross 2022                                   | Toyota Corolla Cross 2022                         |
