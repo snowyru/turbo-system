@@ -67,6 +67,22 @@ Note:
 | **0 - 60 km/h**             | 8.5 - 11.5 seconds                                       | 9.0 seconds                                      |
 | **Additional Features**     | Start-Stop with regenerative braking, Eco Function, Multi Collision Braking System, Hill-hold Assist, Electronic Stability Control (ESP) | Automatic climate control, LED headlights, Apple CarPlay and Android Auto, adaptive cruise control, blind-spot monitoring, rain-sensing wipers, electro-chromatic rear-view mirror, dual-zone automatic air-conditioning, parking sensors (front and rear), reversing camera |
 
+## Comparison Toyota RAV4 2022 and Volkswagen T-Cross 2022
+
+| Feature                     | Toyota RAV4 2022                                         | Volkswagen T-Cross 2022                                    |
+|-----------------------------|----------------------------------------------------------|------------------------------------------------------------|
+| **Variants**                | RAV4 2.0 GX-R AWD<br>RAV4 2.0 VX<br>RAV4 2.5 GX-R Hybrid E-Four<br>RAV4 2.5 VX Hybrid E-Four | 1.0 TSI Comfortline<br>1.0 TSI Comfortline DSG<br>1.0 TSI Highline DSG<br>1.5 TSI R-Line DSG |
+| **Safety Rating (ANCAP)**   | 5-star                                                   | 5-star                                                     |
+| **Boot Capacity**           | 580L                                                     | 385L                                                       |
+| **Fuel Economy**            | 4.8 - 6.7 L/100 km (combined cycle)                       | 5.4 - 5.5 L/100 km (combined cycle)                        |
+| **Transmission**            | CVT (Continuously Variable Transmission)                 | 5-speed manual<br>7-speed DSG (Direct Shift Gearbox)       |
+| **Top Speed**               | 180 - 190 km/h                                           | 180 - 200 km/h                                             |
+| **Drivetrain**              | All-Wheel Drive (AWD)<br>Front-Wheel Drive (FWD)         | Front-Wheel Drive (FWD)                                    |
+| **Power**                   | 127 kW - 131 kW                                          | 70 kW - 110 kW                                             |
+| **Torque**                  | 203 Nm - 221 Nm                                          | 175 Nm - 250 Nm                                            |
+| **0 - 60 km/h**             | 8.4 - 9.2 seconds                                        | 8.5 - 11.5 seconds                                         |
+| **Additional Features**     | Automatic climate control, LED headlights, Apple CarPlay and Android Auto, adaptive cruise control, blind-spot monitoring | Start-Stop with regenerative braking, Eco Function, Multi Collision Braking System, Hill-hold Assist, Electronic Stability Control (ESP) |
+
 
 ## Potential Vehicles - extends comparison parameters
 
