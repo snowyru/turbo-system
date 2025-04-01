@@ -127,7 +127,7 @@ Note:
 | Feature                     | Polo Vivo 2010 1.4L                                     | Toyota Starlet 2022                          |
 |-----------------------------|---------------------------------------------------------|----------------------------------------------|
 | **Variants**                | Hatchback                                              | 1.4L Xi<br>1.4L XS<br>1.4L XR                |
-| **Safety Rating (ANCAP)**   | 3-star - [crash test video](https://youtu.be/QATSSgFvPmk?si=9U0S_thMQuugM0SM) | 4-star                                       |
+| **Safety Rating (ANCAP)**   | 3-star - [crash test video](https://youtu.be/QATSSgFvPmk?si=9U0S_thMQuugM0SM) | 4-star - [crash test video (closest comparison corolla)](https://youtu.be/f_ug9UF8fWU?si=Tq5djO7ArOvR5p3P)                                       |
 | **Boot Capacity**           | 270-635L                                               | 345L                                         |
 | **Fuel Economy**            | 6.2 l/100 km (combined)                                 | 5.1 L/100 km (combined cycle)                |
 | **Transmission**            | 5-speed manual                                         | 5-speed manual<br>4-speed automatic          |
