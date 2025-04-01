@@ -35,6 +35,7 @@ Note:
 - Hyundai Tucson
 - Kia Sportage
 - Chery Haval
+  
 ## Comparison parameters
 - Vehicle name
 - Variants
@@ -69,6 +70,73 @@ Note:
 | Power              | 75 hp (55.93 kW) at 5000 rpm         |
 | Torque             | 132 Nm at 3600 rpm                   |
 | Additional features | ABS, hydraulic power steering, front disc brakes, rear drum brakes, 5 seats, 5 doors, 270-635 liters trunk space |
+
+## Toyota Starlet 2022 Specifications
+
+**Vehicle Name**: Toyota Starlet
+
+**Variants**: 
+- 1.4L Xi
+- 1.4L XS
+- 1.4L XR
+
+**Safety Rating (ANCAP)**: 4-star
+
+**Boot capacity**: 345L
+
+**Engine Options**:
+
+1. **1.4L Xi**:
+   - **Engine Name and Capacity**: 1.4-litre naturally-aspirated 4-cylinder
+   - **Engine Aspiration**: Naturally-aspirated
+   - **Fuel Economy**: 5.1 L/100 km (combined cycle)
+   - **Transmission**: 5-speed manual
+   - **0 - 60 km/h**: 11.6 seconds
+   - **Top Speed**: 170 km/h
+   - **Drivetrain**: Front-Wheel Drive (FWD)
+   - **Power**: 68 kW @ 6000 rpm
+   - **Torque**: 130 Nm @ 4200 rpm
+   - **Additional Features**: Air conditioning, power steering, central locking, touchscreen infotainment system
+
+2. **1.4L XS**:
+   - **Engine Name and Capacity**: 1.4-litre naturally-aspirated 4-cylinder
+   - **Engine Aspiration**: Naturally-aspirated
+   - **Fuel Economy**: 5.1 L/100 km (combined cycle)
+   - **Transmission**: 4-speed automatic
+   - **0 - 60 km/h**: 12.1 seconds
+   - **Top Speed**: 165 km/h
+   - **Drivetrain**: Front-Wheel Drive (FWD)
+   - **Power**: 68 kW @ 6000 rpm
+   - **Torque**: 130 Nm @ 4200 rpm
+   - **Additional Features**: Similar to the Xi variant with added automatic transmission
+
+3. **1.4L XR**:
+   - **Engine Name and Capacity**: 1.4-litre naturally-aspirated 4-cylinder
+   - **Engine Aspiration**: Naturally-aspirated
+   - **Fuel Economy**: 5.1 L/100 km (combined cycle)
+   - **Transmission**: 4-speed automatic
+   - **0 - 60 km/h**: 12.1 seconds
+   - **Top Speed**: 165 km/h
+   - **Drivetrain**: Front-Wheel Drive (FWD)
+   - **Power**: 68 kW @ 6000 rpm
+   - **Torque**: 130 Nm @ 4200 rpm
+   - **Additional Features**: Similar to the XS variant with added premium features
+
+## Comparison Polo Vivo 2010 1.4L and Toyota Starlet 2022
+
+| Feature                     | Polo Vivo 2010 1.4L                                     | Toyota Starlet 2022                          |
+|-----------------------------|---------------------------------------------------------|----------------------------------------------|
+| **Variants**                | Hatchback                                              | 1.4L Xi<br>1.4L XS<br>1.4L XR                |
+| **Safety Rating (ANCAP)**   | 3-star - [crash test video](https://youtu.be/QATSSgFvPmk?si=9U0S_thMQuugM0SM) | 4-star                                       |
+| **Boot Capacity**           | 270-635L                                               | 345L                                         |
+| **Fuel Economy**            | 6.2 l/100 km (combined)                                 | 5.1 L/100 km (combined cycle)                |
+| **Transmission**            | 5-speed manual                                         | 5-speed manual<br>4-speed automatic          |
+| **Top Speed**               | 171 km/h                                               | 170 - 165 km/h                               |
+| **Drivetrain**              | Front-Wheel Drive (FWD)                                | Front-Wheel Drive (FWD)                      |
+| **Power**                   | 75 hp (55.93 kW)                                       | 68 kW                                        |
+| **Torque**                  | 132 Nm                                                 | 130 Nm                                       |
+| **0 - 60 km/h**             | 12.3 seconds                                           | 11.6 - 12.1 seconds                          |
+| **Additional Features**     | ABS, hydraulic power steering, front disc brakes, rear drum brakes, 5 seats, 5 doors, 270-635 liters trunk space | Air conditioning, power steering, central locking, touchscreen infotainment system |
 
 ##  Comparison Volkswagen T-Cross 2022 and Toyota Corolla Cross 2022
 
